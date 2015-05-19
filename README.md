@@ -10,6 +10,10 @@
   - [배틀코믹스 웹 서비스](http://www.battlecomics.co.kr)
   - [페이스북 페이지](https://www.facebook.com/esportsbattle)
 
+## 모집분야
+
+- [개발자](developer.md)
+
 ## 근무조건
 
 - 근무지 : 사당역 스마일게이트 오렌지팜
