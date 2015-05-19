@@ -1,40 +1,14 @@
 안녕하세요!
-
-글로벌 e스포츠 모바일 플랫폼 [e스포츠배틀](http://esportsbattle.com)을 만들고 있는 We make games more fun [더웨일게임즈](http://thewhalegames.com)입니다. 저희와 함께 글로벌 플랫폼을 만들어가실 분들을 모십니다.
+[배틀코믹스](http://www.battlecomics.co.kr)을 만들고 있는 [더웨일게임즈](http://thewhalegames.com)입니다.
 
 ## The Whale Games 소개
 - 13년 6월 시작한 스타트업
 - 2/4호선 사당역 인근 스마일게이트 벤쳐 인큐베이팅 센터인 오렌지팜에 입주
-- e스포츠 모바일 플랫폼인 `e스포츠배틀` 국내 베타 서비스 중
-	- 3월 4일 베타 서비스 오픈, 6월 현재 DAU 1만 돌파
-	- [구글 플레이](https://play.google.com/store/apps/details?id=com.whalegames.app)
-	- [페이스북 페이지](https://www.facebook.com/esportsbattle)
-- 글로벌 메이저 게임사들과 제휴, 9월 중국 서비스 오픈 준비 중
-
-## 현재 기술 스택
-
-- HTML5 웹 기술
-- phonegap 하이브리드 앱
-- Java Jetty 기반 벡엔드 프레임워크
-- SVN + GIT 사용중
-- nodejs, python과 google analytics를 통한 데이터 수집 및 분석
-
-## 이런 분을 찾습니다
-
-프론트 엔드를 맡아서 중국 사용자들에게 다가갈 서비스의 얼굴을 개발해주실 분을 찾습니다.
-
-- 스타트업, 글로벌 비즈니스, e스포츠/게임에 대한 열정과 관심이 넘치는 개발자
-- 책임감 + 집요함을 갖춘 개발자
-- 프론트 엔드 엔지니어
-- 새로운 기술을 접하면 꼭 써봐야 직성이 풀리는 분
-- 모바일 서비스에 관심이 많은 개발자
-
-## 제출 서류 및 접수 방법
-
-- 자유로운 이력서 또는 자기 소개서
-- 포트폴리오 및 경력
-
-[recruit@thewhalegames.com](recruit@thewhalegames.com)으로 보내주세요
+- 게임 웹툰 서비스 `배틀코믹스` 국내 서비스 중
+  - 3월 4일 베타 서비스 오픈
+  - [배틀코믹스 안드로이드 앱](https://play.google.com/store/apps/details?id=com.whalegames.app)
+  - [배틀코믹스 웹 서비스](http://www.battlecomics.co.kr)
+  - [페이스북 페이지](https://www.facebook.com/esportsbattle)
 
 ## 근무조건
 
