@@ -12,7 +12,7 @@ iOS는 현재 개발 중으로 올해 하반기 중 출시를 목표로 하고 �
 
 데이터 분석과 스크립트 도구는 Python을 일부 활용하고 있습니다.
 
-Bitbucket을 통해 소스 코드를 관리하고 있으며 Confluence와 Trello를 적극
+Github와 Bitbucket을 통해 소스 코드를 관리하고 있으며 Confluence와 Trello를 적극
 활용하려고 합니다.
 
 # 모집 분야
