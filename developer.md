@@ -1,3 +1,5 @@
+![Want You](/images/wantu.jpg)
+
 # 기술 스택
 
 http://stackshare.io/the-whale-games/battlecomics
@@ -10,7 +12,7 @@ iOS 앱은 swift로 작성되어 있으며 역시 Alamofire 등 다양한 오픈
 
 서비스에서 얻어지는 귀중한 데이터들은 AWS SQS, Logstash, ElasticSearch를 이용하여 수집, 정제하여 서비스 개발에 활용하고 있습니다.
 
-Github와 Bitbucket을 통해 소스 코드를 관리하고 있으며 Confluence와 Trello를 적극 활용하고 있으며 TDD(Test Driven Development)을 지향합니다. 
+Github와 Bitbucket을 통해 소스 코드를 관리하고 있으며 Confluence와 Trello를 적극 활용하고 있으며 TDD(Test Driven Development)을 지향합니다.
 
 # 모집 분야
 
@@ -62,7 +64,7 @@ Github와 Bitbucket을 통해 소스 코드를 관리하고 있으며 Confluence
 # 제출 서류 및 접수방법
 
 - 자기 소개서/이력서를 작성해주세요. 어떤 분인지 알고 싶습니다.
-- Github 페이지를 보내주세요. 
+- Github 페이지를 보내주세요.
 
 위 내용을 [recruit@thewhalegames.com](mailto:recruit@thewhalegames.com)으로
 보내주시면 곧 연락드리겠습니다.
