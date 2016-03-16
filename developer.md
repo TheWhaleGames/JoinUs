@@ -2,7 +2,7 @@
 
 http://stackshare.io/the-whale-games/battlecomics
 
-배틀코믹스의 서버들은 Ruby on Rails와 Play Framework를 사용하고 있습니다. 데이터 저장은 주로 MySql을 사용하고 있으며 일부 서비스에서 postgresql을 사용합니다. 빌드와 배포를 자동화하는데 노력을 기울이고 있으며 docker를 활용한 빌드와 배포를 준비하고 있습니다. Ruby on Rails는 rails 5 출시에 대비해 마이그레이션을 진행 중이며 Play Framework는 현재 Java로 작성되어 있으나 Scala로 
+배틀코믹스의 서버들은 Ruby on Rails와 Play Framework를 사용하고 있습니다. 데이터 저장은 주로 MySql을 사용하고 있으며 일부 서비스에서 postgresql을 사용합니다. 빌드와 배포를 자동화하는데 노력을 기울이고 있으며 docker를 활용한 빌드와 배포를 준비하고 있습니다. Ruby on Rails는 rails 5 출시에 대비해 마이그레이션을 진행 중이며 Play Framework는 현재 Java로 작성되어 있으나 Scala로 넘어가기 위해 준비하고 있습니다.
 
 안드로이드 앱은 fresco, butterknife, otto등 다양한 오픈소스를 적극적으로 활용하고 있으며 RxJava나 kotlin 등 새로운 기술을 활용하기 위해 준비 중입니다.
 
